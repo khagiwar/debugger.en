@@ -1,11 +1,11 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
-user-guide: null
+product: experience cloud
+archetype: end-user
+user-guide: Experience Cloud Debugger
 ---
 
-# Table of Contents {#table-of-contents}
+# Table of Contents {#using}
 
 + [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
 + [Release Notes](release-notes.md)
