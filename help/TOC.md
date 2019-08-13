@@ -1,8 +1,10 @@
 ---
 cloud: experience-cloud
 product: experience cloud
+sub-product: experience cloud debugger
 archetype: end-user
-user-guide: Experience Cloud Debugger
+user-guide: Experience Cloud Debugger Help
+
 ---
 
 # Table of Contents {#using}
