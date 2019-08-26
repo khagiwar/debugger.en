@@ -1,13 +1,11 @@
 ---
-description: null
+description: Debugger examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented
 keywords: debugger;experience cloud debugger extension;chrome;extension
-seo-description: null
-seo-title: Adobe Experience Cloud Debugger Extension
+seo-description: Adobe Experience Cloud Debugger CHrome Extension examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented
+seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Adobe Experience Cloud Debugger Extension{#adobe-experience-cloud-debugger-extension}

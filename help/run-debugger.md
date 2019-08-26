@@ -5,9 +5,7 @@ seo-description: null
 seo-title: Summary Screen
 title: Summary Screen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Summary Screen{#summary-screen}

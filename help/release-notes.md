@@ -5,9 +5,7 @@ seo-description: null
 seo-title: Release Notes
 title: Release Notes
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Release Notes{#release-notes}

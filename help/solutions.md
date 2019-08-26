@@ -1,13 +1,11 @@
 ---
-description: null
+description: Using the Solution tabs in Adobe Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: null
-seo-title: Solution Tabs
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
 title: Solution Tabs
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Solution Tabs{#solution-tabs}
