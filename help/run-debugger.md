@@ -18,7 +18,7 @@ The Adobe Experience Cloud Debugger Summary screen appears.
 
 ![](assets/summary.jpg)
 
-This screen shows a thumbnail of the page, as well as the URL and title of the page. It also shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information like the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
+This screen shows a thumbnail of the page, as well as the URL and title of the page. It also shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information including the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
 
 The numbers in blue next to the tabs at the top of the window show the number of server calls that have been made. You can reset these to zero by clicking **[!UICONTROL Clear All Requests]** within the respective tab.
 
