@@ -29,4 +29,3 @@ Use the Debugger to gather information that helps you understand how your Experi
 
 * **Launch, by Adobe:** See which property, environment, build are deployed on a page. 
 * **Target:** See which activities you qualify or don't qualify for and why.
-
