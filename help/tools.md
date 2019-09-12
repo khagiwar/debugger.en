@@ -5,12 +5,11 @@ seo-description: null
 seo-title: Tools
 title: Tools
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-
 ---
 
 # Tools{#tools}
 
- On the Tools screen, you can enable or disable various tools for the installed solution. For example, you can turn on Target's console debugging statements or use the DTM Staging Library. These tools are only available if Target and DTM are installed on your page.
+On the Tools screen, you can enable or disable various tools for the installed solution. For example, you can turn on Target's console debugging statements or use the DTM Staging Library. These tools are only available if Target and DTM are installed on your page.
 
 ![](assets/tools.jpg)
 

@@ -5,12 +5,11 @@ seo-description: null
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-
 ---
 
 # Logs{#logs}
 
- The Logs screen provides information specific to DTM implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated DTM tools. You can choose which of the following issue severity levels show on the screen:
+The Logs screen provides information specific to DTM implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated DTM tools. You can choose which of the following issue severity levels show on the screen:
 
 * Log 
 * Info 

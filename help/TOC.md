@@ -6,7 +6,7 @@ audience: end-user
 user-guide: Experience Cloud Debugger Help
 ---
 
-# Table of Contents {#using}
+# Experience Cloud Debugger Help {#using}
 
 + [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
 + [Release Notes](release-notes.md)
