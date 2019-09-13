@@ -3,7 +3,8 @@ cloud: experience-cloud
 product: experience cloud
 sub-product: experience cloud debugger
 audience: end-user
-user-guide: Experience Cloud Debugger Help
+user-guide-title: Experience Cloud Debugger Help
+
 ---
 
 # Experience Cloud Debugger Help {#using}
