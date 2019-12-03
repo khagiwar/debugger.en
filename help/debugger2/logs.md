@@ -21,9 +21,9 @@ The Logs screen shows information in four columns:
 
 **[!UICONTROL Log level]:** Shows the issue severity. The severity is one of the following levels: 
 
-* Log 
-* Info 
-* Warnings 
+* Log
+* Info
+* Warnings
 * Errors
 
 **[!UICONTROL Log message]:** Describes the issue.
