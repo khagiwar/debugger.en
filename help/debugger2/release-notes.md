@@ -19,7 +19,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
+   <th colname="col2" class="entry"> Description </th>
   </tr>
  </thead>
  <tbody> 
