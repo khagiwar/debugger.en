@@ -15,7 +15,7 @@ The Network screen aggregates all of the Adobe Experience Cloud solution calls m
 
 ![](assets/network.jpg)
 
-This screen is useful for confirming that parameters used for integrations, such as the Experience Cloud Visitor ID or the Supplemental Data ID, are consistent across integrations.
+This screen is useful for comparing key value pairs across hits. You can confirm that parameters used for integrations, such as the Experience Cloud Visitor ID or the Supplemental Data ID, are consistent across integrations.
 
 >[!NOTE]
 >
