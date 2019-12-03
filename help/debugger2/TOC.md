@@ -18,4 +18,3 @@ index=no
 + [Network Information](network.md)
 + [Events](events.md)
 + [Auditor](auditor.md)
-
