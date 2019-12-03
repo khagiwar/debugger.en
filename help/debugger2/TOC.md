@@ -7,7 +7,7 @@ user-guide-title: Experience Cloud Debugger 2.0 Help
 index=no
 ---
 
-# Experience Cloud Debugger Help {#using}
+# Experience Cloud Debugger Help {#using-v2}
 
 + [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
 + [Release Notes](release-notes.md)
