@@ -4,7 +4,7 @@ product: experience cloud
 sub-product: experience cloud debugger 2.0
 audience: end-user
 user-guide-title: Experience Cloud Debugger 2.0 Help
-index=no
+index: no
 ---
 
 # Experience Cloud Debugger Help {#using-v2}
