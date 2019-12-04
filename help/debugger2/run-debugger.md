@@ -5,7 +5,7 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;summary;
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 ---
 
-# Summary Screen{#summary-screen}
+# Summary Screen {#summary-screen}
 
 To run the Experience Cloud Debugger, click the extension icon in the extension bar, then open the page you want to examine in Chrome.
 
