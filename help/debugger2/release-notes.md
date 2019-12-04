@@ -44,7 +44,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Auditor tests </p> </td> 
-   <td colname="col2"> <p> Added <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Auditor tests</a> to Debugger </p> </td> 
+   <td colname="col2"> <p> Added <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Auditor tests</a> to Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
