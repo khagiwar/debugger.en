@@ -1,9 +1,7 @@
 ---
-description: null
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: null
-seo-title: Summary Screen
 title: Summary Screen
+description: Description of the Summary Screen in Adobe Debugger
+keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 ---
 
@@ -213,4 +211,3 @@ The Debugger shows the following information for each solution:
   </tr> 
  </tbody> 
 </table>
-
