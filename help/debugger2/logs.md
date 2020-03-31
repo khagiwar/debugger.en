@@ -9,7 +9,11 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 
 # Logs{#logs}
 
-The Logs screen provides information specific to DTM implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated DTM tools. 
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+
+The Logs screen provides information specific to DTM, Launch, and AEP Web SDK implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated tools. 
 
 ![](assets/logs.jpg)
 

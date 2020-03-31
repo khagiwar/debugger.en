@@ -9,20 +9,19 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 
 # Summary Screen{#summary-screen}
 
-To run the Experience Cloud Debugger, click the extension icon in the extension bar, then open the page you want to examine in Chrome.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+
+To run the Adobe Experience Platform Debugger, click the icon on your browser bar, then open the page you want to examine in the browser.
 
 ![](assets/start-icon.jpg)
 
-The Adobe Experience Cloud Debugger Summary screen appears.
+The Adobe Experience Platform Debugger Summary screen appears.
 
 ![](assets/summary.jpg)
 
 This screen shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information including the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
-
-
-## Run an Audit in Auditor {#section-82bc57440406461ebf27a16855b71655}
-
-You can use Adobe Auditor to run a series of audits on your page. To run Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Adobe Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Information shown in the Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -95,35 +94,39 @@ The Debugger shows the following information for each solution:
    <td colname="col2"> <p>The <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Script Directory </p> </td> 
-   <td colname="col2"> <p>The directory where the Launch script is stored </p> </td> 
+   <td colname="col1"> <p>Extensions </p> </td> 
+   <td colname="col2"> <p>The extensions used on the page </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-**Adobe DTM**
+**Adobe Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Library Name </p> </td> 
-   <td colname="col2"> <p>The name of the Adobe DTM<a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> library</a> </p> </td> 
+   <td colname="col1"> <p>Library Version </p> </td> 
+   <td colname="col2"> <p>The number of the AEB Web SDK <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">library version</a> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The version of Turbine </p> </td> 
+   <td colname="col1"> <p>Namespace</p> </td> 
+   <td colname="col2"> <p>The name identified in the extension</p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Build Date </p> </td> 
-   <td colname="col2"> <p>The Launch <a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col1"> <p>Property ID </p> </td> 
+   <td colname="col2"> <p>The name of the Launch property specified in the extension </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Environment </p> </td> 
-   <td colname="col2"> <p>The environment used by the DTM library </p> </td> 
+   <td colname="col1"> <p>Edge Domain </p> </td> 
+   <td colname="col2"> <p>The domain that the Adobe Experience Platform extension sends and receives data from </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Script Directory </p> </td> 
-   <td colname="col2"> <p>The directory where the DTM script is stored </p> </td> 
+   <td colname="col1"> <p>IMS Organization ID </p> </td> 
+   <td colname="col2"> <p>The organization that you would like the data sent to at Adobe, as specified in the extension </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Logging Enabled </p> </td> 
+   <td colname="col2"> <p>Specifies whether logging has been enabled for this property</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -156,12 +159,16 @@ The Debugger shows the following information for each solution:
    <td colname="col2"> <p>Your current <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> or mbox.js version </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Global Mbox Name </p> </td> 
+   <td colname="col1"> <p>Global Request Name </p> </td> 
    <td colname="col2"> <p>The<a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> global mbox</a> refers to the single server call made at the top of each web page in your Target implementation </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Mbox Name </p> </td> 
-   <td colname="col2"> <p>The name of an mbox around a <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> location</a> on the page. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
+   <td colname="col1"> <p>Page Load Event </p> </td> 
+   <td colname="col2"> <p>The type of <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/target-extension/overview.html" format="html" scope="external">event</a> that fires when the page loads </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Request Name </p> </td> 
+   <td colname="col2"> <p>The name of a request around a <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> location</a> on the page. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activity Name </p> </td> 
@@ -172,15 +179,15 @@ The Debugger shows the following information for each solution:
    <td colname="col2"> <p>The ID of the Target activity. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Recipe Name </p> </td> 
+   <td colname="col1"> <p>Experience Name </p> </td> 
    <td colname="col2"> <p>The name of the Target <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"> experience</a>. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Recipe ID </p> </td> 
-   <td colname="col2"> <p>The ID of the Target recipe. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
+   <td colname="col1"> <p>Experience ID </p> </td> 
+   <td colname="col2"> <p>The ID of the Target experience. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Offer </p> </td> 
+   <td colname="col1"> <p>Offer Name</p> </td> 
    <td colname="col2"> <p>The name of the Target <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> offer</a>. Available without authentication only if you implement the Debugging event listener in your code or tag manager and turn on the necessary <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> response tokens</a> in the Target UI. </p> </td> 
   </tr> 
   <tr> 
