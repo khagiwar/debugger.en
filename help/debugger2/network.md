@@ -7,7 +7,11 @@ title: Network Information
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 ---
 
-# Network Information{#network-information}
+# Network{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 To view Network information, click **[!UICONTROL Network]**.
 
@@ -21,7 +25,7 @@ This screen is useful for comparing key value pairs across hits. You can confirm
 >
 >At this time, not all parameters passed in the solution calls (for example, Analytics context variables, Target custom parameters, or Experience Cloud ID Service Customer IDs) are visible in the Network screen.
 
-To filter the information by solution, select the solution you want to view from the list in the left nav. The following example is filtered to show only Analytics:
+To change the information by solution, select the solution you want to view from the list in the left nav. The following example is filtered to show only Analytics:
 
 ![](assets/network-analytics.jpg)
 
