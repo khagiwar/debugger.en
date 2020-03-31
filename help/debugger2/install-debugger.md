@@ -22,7 +22,5 @@ After you install the Chrome extension or Firefox add-on, an icon is added to th
 
 ![](assets/start-icon.jpg)
 
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)--> 
-
 Click the icon to start Debugger. 
 
