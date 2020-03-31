@@ -18,8 +18,6 @@ After you install the extension, an icon is added to the extension bar:
 
 ![](assets/start-icon.jpg)
 
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)--> 
-
 Click the icon to start Debugger. 
 
 After Debugger opens, you can select your preferred appearance by going to **<!UICONTROL Settings>** and selecting either **Dark Mode** (default) or **Light Mode**.
