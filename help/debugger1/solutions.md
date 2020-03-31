@@ -13,7 +13,7 @@ Click the solution tabs to see the results for specific Adobe Experience Cloud s
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-The Analytics tab provides information about your [Analytics](https://experiencecloud.adobe.com/resources/help/en_US/reference/) implementation.
+The Analytics tab provides information about your [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html) implementation.
 
 **Hits**
 
@@ -29,7 +29,7 @@ Click the report suite ID to expand the view:
 
 ![](assets/analytics-hits-expand.jpg)
 
-This screen displays all requests since the Debugger was opened or the requests were cleared. Default parameters are mapped to friendly names automatically. [Prop and eVar](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/props_eVars.html) variables can be mapped to your custom friendly names (for example, "prop1" could display as "User Type") if you authenticate using the "Link Analytics" feature (see below). Requests are displayed in sequence from left to right.
+This screen displays all requests since the Debugger was opened or the requests were cleared. Default parameters are mapped to friendly names automatically. [Prop and eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) variables can be mapped to your custom friendly names (for example, "prop1" could display as "User Type") if you authenticate using the "Link Analytics" feature (see below). Requests are displayed in sequence from left to right.
 
 **Download:** Save all requests made to the report suite as an Excel spreadsheet.
 
@@ -89,7 +89,7 @@ The following video shows Mbox Trace:
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Use the [Audience Manager](https://experiencecloud.adobe.com/resources/help/en_US/aam/) tab to view details of [events](https://experiencecloud.adobe.com/resources/help/en_US/aam/dcs-event-calls.html). Click the organization to expand it and show the information.
+Use the [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) tab to view details of [events](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Click the organization to expand it and show the information.
 
 ![](assets/audience-manager.jpg)
 
@@ -101,7 +101,7 @@ ID synchronization is the first step in the inbound, asynchronous data transfer 
 
 ![](assets/aam-idsync.jpg)
 
-See [ID Synchronization for Inbound Data Transfers](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_id_sync_in.html) in the Audience Manager Product Documentation for more information.
+See [ID Synchronization for Inbound Data Transfers](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) in the Audience Manager Product Documentation for more information.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -113,7 +113,7 @@ Click **[!UICONTROL Clear All Requests]** to remove the currently displayed requ
 
 ## Experience Cloud ID Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Use the Experience Cloud ID Service tab to view [Experience Cloud ID Service](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) requests.
+Use the Experience Cloud ID Service tab to view [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) requests.
 
 Click **[!UICONTROL Requests]**, then expand the environment to view information about Experience Cloud ID Service.
 

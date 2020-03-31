@@ -58,19 +58,19 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Report Suite(s) </p> </td> 
-   <td colname="col2"> <p>A <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external"> report suite</a> defines the complete, independent reporting on a chosen website, set of websites, or subset of web pages </p> </td> 
+   <td colname="col2"> <p>A <a href="https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html" format="html" scope="external"> report suite</a> defines the complete, independent reporting on a chosen website, set of websites, or subset of web pages </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> version defined for the page </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/implementation/js/overview.html" format="html" scope="external"> AppMeasurement</a> version defined for the page </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Visitor Version </p> </td> 
-   <td colname="col2"> <p>The version of the <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> visitor ID</a> library. </p> </td> 
+   <td colname="col2"> <p>The version of the <a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> visitor ID</a> library. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Page Name </p> </td> 
-   <td colname="col2"> <p>The <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> variable sent to Analytics that contains a user friendly name of the site. </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external"> pageName</a> variable sent to Analytics that contains a user friendly name of the site. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
@@ -85,15 +85,15 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>The <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"> partner name</a> for the DIL instance </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partner name</a> for the DIL instance </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external"> version number</a> for the DIL instance </p> </td> 
+   <td colname="col2"> <p>The<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external"> version number</a> for the DIL instance </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>The <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> Unique User ID</a> associated with the DIL instance </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> Unique User ID</a> associated with the DIL instance </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -104,19 +104,19 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>The name of the Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>The name of the Adobe Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The version of <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a> </p> </td> 
+   <td colname="col2"> <p>The version of <a href="https://developer.adobelaunch.com/extensions/reference/turbine-free-variable/" format="https" scope="external"> Turbine</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build Date </p> </td> 
-   <td colname="col2"> <p>The Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>The Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environment </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Script Directory </p> </td> 
@@ -131,7 +131,7 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Library Name </p> </td> 
-   <td colname="col2"> <p>The name of the Adobe DTM<a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> library</a> </p> </td> 
+   <td colname="col2"> <p>The name of the Adobe DTM<a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> library</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -139,7 +139,7 @@ The Debugger shows the following information for each solution:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build Date </p> </td> 
-   <td colname="col2"> <p>The Launch <a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>The Launch <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environment </p> </td> 
@@ -158,11 +158,11 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Org ID </p> </td> 
-   <td colname="col2"> <p>Your <a href="https://experiencecloud.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external"> Organization ID</a> </p> </td> 
+   <td colname="col2"> <p>Your <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> Organization ID</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The version of the<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> visitor ID</a> library </p> </td> 
+   <td colname="col2"> <p>The version of the<a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> visitor ID</a> library </p> </td> 
   </tr> 
  </tbody> 
 </table>
