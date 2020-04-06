@@ -9,9 +9,9 @@ uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 
 # Install Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 Download and install the Adobe Experience Platform Debugger.
 

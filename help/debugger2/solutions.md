@@ -9,9 +9,9 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 
 # Solutions{#solution-tabs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 Click a solution to see the results for specific Adobe Experience Cloud solutions.
 

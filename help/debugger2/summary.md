@@ -9,9 +9,9 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 
 # Summary Screen{#summary-screen}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 To run the Adobe Experience Platform Debugger, click the icon on your browser bar, then open the page you want to examine in the browser.
 
