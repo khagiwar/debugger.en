@@ -8,9 +8,9 @@ title: Events
 
 # Events{#events}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 The Events screen provides a graphical view of the events that occur, displayed on a timeline.
 

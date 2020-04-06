@@ -9,9 +9,9 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 
 # Network{#network}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
 
 To view Network information, click **[!UICONTROL Network]**.
 
