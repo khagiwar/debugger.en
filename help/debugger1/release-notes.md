@@ -215,7 +215,7 @@ Version 0.0.803 does not include any customer-facing changes.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Update help link in footer </p> </td> 
-   <td colname="col2"> <p>Update help link in footer to <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>Update help link in footer to <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
