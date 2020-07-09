@@ -66,7 +66,7 @@ You can dynamically insert Launch or DTM on any page to test something on a page
   </tr> 
   <tr> 
    <td colname="col1"> <p> Enable Mbox Traces </p> </td> 
-   <td colname="col2"> <p>This tool adds detailed information to Target responses, which can be explored in the <span class="uicontrol"> Target&gt;Mbox Trace</span> screen of the debugger. </p> <p> You must have be logged into the Experience Cloud in one of your Chrome tabs to enable this tool. </p> </td> 
+   <td colname="col2"> <p>This tool adds detailed information to Target responses, which can be explored in the <span class="uicontrol"> Target&gt;Mbox Trace</span> screen of the debugger. </p> <p> You must be logged into the Experience Cloud in one of your Chrome tabs to enable this tool. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Disable Target </p> </td> 

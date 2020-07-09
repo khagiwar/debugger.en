@@ -23,7 +23,7 @@ The Adobe Experience Platform Debugger Summary screen appears.
 
 This screen shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information including the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
 
-## Information shown in the Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information shown in the Debugger 
 
 The Debugger shows the following information for each solution:
 
@@ -79,19 +79,19 @@ The Debugger shows the following information for each solution:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>The name of the Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>The name of the Adobe Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>The version of <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a> </p> </td> 
+   <td colname="col2"> <p>The version of Turbine</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build Date </p> </td> 
-   <td colname="col2"> <p>The Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>The Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environment </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensions </p> </td> 
