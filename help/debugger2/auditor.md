@@ -2,10 +2,10 @@
 description: null
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
 seo-description: null
-title: Auditor
+title:Auditor
 ---
 
-# Auditor{#auditor}
+# Auditor {#auditor}
 
 >[!IMPORTANT]
 >

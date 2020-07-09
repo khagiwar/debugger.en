@@ -23,7 +23,7 @@ The Adobe Experience Platform Debugger Summary screen appears.
 
 This screen shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information including the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
 
-## Information shown in the Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information shown in the Debugger 
 
 The Debugger shows the following information for each solution:
 
