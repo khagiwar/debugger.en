@@ -27,9 +27,13 @@ The above steps are not necessarily performed in that order, but it is a common 
 
 Although you can run the debugger on any web page, any non-public data is only available in the extension if you are authenticated into the Experience Cloud in one of your open Chrome tabs.
 
-## Use Cases {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Use cases {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Use the Debugger to gather information that helps you understand how your Experience Cloud solutions are implemented. For example:
 
 * **Launch:** See which property, environment, build are deployed on a page. 
 * **Target:** See which activities you qualify or don't qualify for and why.
+
+## Video tutorial
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on) 
