@@ -36,4 +36,4 @@ Use the Debugger to gather information that helps you understand how your Experi
 
 ## Video tutorial
 
-[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on) 
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on) 
