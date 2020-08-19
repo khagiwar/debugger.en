@@ -1,7 +1,7 @@
 ---
-description: null
+description: Experience Cloud Debugger Logs screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: null
+seo-description: Experience Cloud Debugger Logs screen
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531

@@ -1,7 +1,7 @@
 ---
-description: null
+description: How to configure Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: null
+seo-description: How to configure Experience Cloud Debugger
 seo-title: Configure Experience Cloud Debugger
 title: Configure Experience Cloud Debugger
 ---

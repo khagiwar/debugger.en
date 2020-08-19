@@ -1,7 +1,7 @@
 ---
-description: null
+description: Experience Cloud Debugger Network screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: null
+seo-description: Experience Cloud Debugger Network screen
 seo-title: Network Information
 title: Network Information
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f

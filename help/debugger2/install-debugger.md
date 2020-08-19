@@ -1,7 +1,7 @@
 ---
-description: null
+description: How to Install Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: null
+seo-description: How to Install Experience Cloud Debugger
 seo-title: Install Experience Cloud Debugger
 title: Install Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
