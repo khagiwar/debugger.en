@@ -1,7 +1,7 @@
 ---
-description: null
+description: About Experience Platform Auditor
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
-seo-description: null
+seo-description: About Experience Platform Auditor
 title: Auditor
 ---
 

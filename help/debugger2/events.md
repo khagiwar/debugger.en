@@ -1,7 +1,7 @@
 ---
-description: null
+description: Experience Cloud Debugger Events Screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: null
+seo-description: Experience Cloud Debugger Events Screen
 seo-title: Events
 title: Events
 ---

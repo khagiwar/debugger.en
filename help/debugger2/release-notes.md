@@ -1,7 +1,7 @@
 ---
-description: null
+description: Experience Cloud Debugger release notes
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: null
+seo-description: Experience Cloud Debugger release notes
 seo-title: Release Notes
 title: Release Notes
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
