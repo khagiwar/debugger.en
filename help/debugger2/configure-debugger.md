@@ -18,11 +18,11 @@ You can configure certain aspects of how Debugger looks and works.
 
 ## Light or dark mode
 
-After Debugger opens, you can select your preferred appearance by going to **<!UICONTROL Settings>** and selecting either **Dark Mode** (default) or **Light Mode**.
+After Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
 
 ## Reset
 
-Click **[!UI CONTROL Reset all Data and Settings]** to return to clear all data and return to the default settings.
+Click **[!UICONTROL Reset all Data and Settings]** to return to clear all data and return to the default settings.
 
 ## Lock Debugger on one page
 
