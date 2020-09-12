@@ -4,7 +4,7 @@ product: experience cloud
 sub-product: experience cloud debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
-
+breadcrumb-title: Debugger Guide
 ---
 
 # Experience Cloud Debugger Help {#using}
