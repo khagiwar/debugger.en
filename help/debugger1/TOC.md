@@ -4,6 +4,7 @@ product: experience cloud
 sub-product: experience cloud debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
+user-guide-description: Examine your web pages for problems with your Experience Cloud solution implementations.
 breadcrumb-title: Debugger Guide
 ---
 
