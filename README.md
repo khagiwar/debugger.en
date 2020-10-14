@@ -1,1 +1,1 @@
-# Technical documentation for Experience Cloud Debugger
+# Technical documentation for Experience Platform Debugger

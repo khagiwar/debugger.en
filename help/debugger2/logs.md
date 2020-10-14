@@ -1,7 +1,7 @@
 ---
-description: Experience Cloud Debugger Logs screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debugger Logs screen
+description: Experience Platform Debugger Logs screen
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Experience Platform Debugger Logs screen
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
@@ -11,7 +11,7 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
 The Logs screen provides information specific to DTM, Launch, and AEP Web SDK implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated tools. 
 

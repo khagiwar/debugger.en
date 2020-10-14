@@ -1,7 +1,7 @@
 ---
-description: Experience Cloud Debugger Events Screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger Events Screen
+description: Experience Platform Debugger Events Screen
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Experience Platform Debugger Events Screen
 seo-title: Events
 title: Events
 ---
@@ -10,13 +10,13 @@ title: Events
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
 The Events screen provides a graphical view of the events that occur, displayed on a timeline.
 
 ![](assets/events.jpg)
 
-For each event, an icon for the applicable Experience Cloud solution appears on the timeline. Icons also show changes to the data layer (if enabled). Hover over an icon for a summary of the event. Click on the event for more details. You can Shift-Click or Control-Click to view multiple events.
+For each event, an icon for the applicable solution appears on the timeline. Icons also show changes to the data layer (if enabled). Hover over an icon for a summary of the event. Click on the event for more details. You can Shift-Click or Control-Click to view multiple events.
 
 ![](assets/events-details.jpg)
 

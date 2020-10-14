@@ -1,7 +1,7 @@
 ---
-description: Experience Cloud Debugger Network screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Experience Cloud Debugger Network screen
+description: Experience Platform Debugger Network screen
+keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+seo-description: Experience Platform Debugger Network screen
 seo-title: Network Information
 title: Network Information
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
@@ -11,7 +11,7 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
 To view Network information, click **[!UICONTROL Network]**.
 

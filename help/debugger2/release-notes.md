@@ -1,7 +1,7 @@
 ---
-description: Experience Cloud Debugger release notes
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: Experience Cloud Debugger release notes
+description: Experience Platform Debugger release notes
+keywords: debugger;experience Platform Debugger extension;chrome;extension;release notes
+seo-description: Experience Platform Debugger release notes
 seo-title: Release Notes
 title: Release Notes
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
@@ -13,4 +13,4 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 

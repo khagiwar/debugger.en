@@ -1,7 +1,7 @@
 ---
-description: Experience Cloud Debugger Summary Screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger Summary Screen
+description: Experience Platform Debugger Summary Screen
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Experience Platform Debugger Summary Screen
 seo-title: Summary Screen
 title: Summary Screen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
@@ -11,7 +11,7 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
 To run the Adobe Experience Platform Debugger, click the icon on your browser bar, then open the page you want to examine in the browser.
 
@@ -23,9 +23,9 @@ The Adobe Experience Platform Debugger Summary screen appears.
 
 This screen shows information about each Adobe Experience Cloud solution. The information shown varies by solution, but typically includes information including the solution library and version (for example, "AppMeasurement v2.9") and account identifiers (such as the Analytics report suite ID, the Target client code, the Audience Manager partner ID, and so on)
 
-## Information shown in the Debugger 
+## Information shown in Experience Platform Debugger  
 
-The Debugger shows the following information for each solution:
+Experience Platform Debugger  shows the following information for each solution:
 
 **Adobe Analytics**
 
