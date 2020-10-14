@@ -1,8 +1,8 @@
 ---
-description: Using the Solution tabs in Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Using the Solution tabs in Adobe Debugger
-seo-title: Solution Tabs in Adobe Debugger
+description: Using the Solution tabs in Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: Using the Solution tabs in Adobe Experience Platform Debugger 
+seo-title: Solution Tabs in Adobe Experience Platform Debugger 
 title: Solution Tabs
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 ---
@@ -11,7 +11,7 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is currently in beta. The documentation and the functionality are subject to change. 
+>Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
 Click a solution to see the results for specific Adobe Experience Cloud solutions.
 
@@ -35,7 +35,7 @@ Use the [Audience Manager](https://docs.adobe.com/content/help/en/audience-manag
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Use the Launch section to view Launch requests. You can also click **[!UICONTROL Configuration]** to configure [embed codes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). You can edit, replace, or add more embed codes from within Debugger. If you sign in, you can select an alternate property using the dropdowns.
+Use the Launch section to view Launch requests. You can also click **[!UICONTROL Configuration]** to configure [embed codes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). You can edit, replace, or add more embed codes from within Experience Platform Debugger . If you sign in, you can select an alternate property using the dropdowns.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
