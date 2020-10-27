@@ -1,7 +1,8 @@
 ---
 cloud: experience-platform
 product: experience platform
-sub-product: experience platform debugger 
+sub-product: experience platform debugger
+solution: Experience Platform, Data Collection
 audience: end-user
 user-guide-title: Experience Platform Debugger Help
 user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
