@@ -13,7 +13,7 @@ uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 >
 >Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
-Download and install the Adobe Experience Platform Debugger.
+Download and install Adobe Experience Platform Debugger.
 
 * **Chrome:** From the [Chrome extension page](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
 * **Firefox:** From the [Firefox add-ons page](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)

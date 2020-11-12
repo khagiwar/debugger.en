@@ -13,7 +13,7 @@ On the Tools screen, you can enable or disable various tools for the installed s
 
 ![](assets/tools.jpg)
 
-You can dynamically insert Launch or DTM on any page to test something on a page that does not have Launch or DTM installed. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) and click **[!UICONTROL Save]**.
+You can dynamically insert Adobe Experience Platform Launch or DTM on any page to test something on a page that does not have Platform Launch or DTM installed. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) and click **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 

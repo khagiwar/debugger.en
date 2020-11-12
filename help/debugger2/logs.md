@@ -13,7 +13,7 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 >
 >Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
-The Logs screen provides information specific to DTM, Launch, and AEP Web SDK implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated tools. 
+The Logs screen provides information specific to DTM, Adobe Experience Platform Launch, and Adobe Experience Platform Web SDK implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. You can filter by solutions implemented via their associated tools. 
 
 ![](assets/logs.jpg)
 

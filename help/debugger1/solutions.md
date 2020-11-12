@@ -29,7 +29,7 @@ Click the report suite ID to expand the view:
 
 ![](assets/analytics-hits-expand.jpg)
 
-This screen displays all requests since the Debugger was opened or the requests were cleared. Default parameters are mapped to friendly names automatically. [Prop and eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) variables can be mapped to your custom friendly names (for example, "prop1" could display as "User Type") if you authenticate using the "Link Analytics" feature (see below). Requests are displayed in sequence from left to right.
+This screen displays all requests since the Adobe Experience Pllatform Debugger was opened or the requests were cleared. Default parameters are mapped to friendly names automatically. [Prop and eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) variables can be mapped to your custom friendly names (for example, "prop1" could display as "User Type") if you authenticate using the "Link Analytics" feature (see below). Requests are displayed in sequence from left to right.
 
 **Download:** Save all requests made to the report suite as an Excel spreadsheet.
 
@@ -37,7 +37,7 @@ This screen displays all requests since the Debugger was opened or the requests 
 
 **Linked Accounts (Legacy)**
 
-Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Debugger.
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Click **[!UICONTROL Link Account]**, then enter the requested information to lin
 
 Enable the Retrieve Post-Processed Hits option if you want to see the values on Analytics hits after processing rules have run. You must be signed in to Adobe Experience Cloud for this feature to function.
 
-When this option is enabled, a debugging parameter is added to your Analytics requests. Hits continue to be processed like any other hits. Debugger polls the Analytics debugging API to retrieve post-processing rules values for any hits that have an original Hit ID. Post-processed hits have a purple background and are shown next to the original hit.
+When this option is enabled, a debugging parameter is added to your Analytics requests. Hits continue to be processed like any other hits. Platform Debugger polls the Analytics debugging API to retrieve post-processing rules values for any hits that have an original Hit ID. Post-processed hits have a purple background and are shown next to the original hit.
 
 For most Analytics implementations, the post-processing rules info is available within a few minutes. Analytics for Target (A4T) implementation take significantly longer.
 

@@ -43,12 +43,12 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor tests </p> </td> 
-   <td colname="col2"> <p> Added <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Auditor tests</a> to Debugger </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor tests </p> </td> 
+   <td colname="col2"> <p> Added <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Platform Auditor tests</a> to Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger now displays AAM responses </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger now displays AAM responses </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -57,7 +57,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 
 * Fixed an issue where the footer was hiding content on the bottom of the page
 
-* Updated the Debugger footer 
+* Updated the Experience Cloud Debugger footer 
 * Fixed an issue where outdated terminology was used for Target
 
 ## Version 0.0.809 February 28, 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -89,7 +89,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 
 * Fixed an issue in Dynamically Insert Launch where the user interface appeared to map to a different embed code when it wasn't 
 * Fixed an issue in Dynamically Insert Launch where a bad URL continued to display 
-* Fixed an issue where Debugger continued to replace embed codes even when the Debugger window was closed
+* Fixed an issue where Experience Cloud Debugger continued to replace embed codes even when the Experience Cloud Debugger window was closed
 
 ## Version 0.0.806 September 10, 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -109,7 +109,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
   </tr> 
   <tr> 
    <td colname="col1"> <p>Dynamically Insert Launch </p> </td> 
-   <td colname="col2"> <p>From the Tools tab, you can dynamically insert Launch on any page to test something on a page that does not have Launch installed. </p> </td> 
+   <td colname="col2"> <p>From the Tools tab, you can dynamically insert Adobe Experience Platform Launch on any page to test something on a page that does not have Platform Launch installed. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target enhancements </p> </td> 
@@ -132,7 +132,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 * Fixed an issue where the Experience Cloud tab was not updating
 
 * Fixed an issue where"Media Optimizer" showed in the Solution row of the Network tab, rather than the current "Advertising Cloud" name 
-* Fixed an issue that caused Debugger to inject _satellite on every page
+* Fixed an issue that caused Experience Cloud Debugger to inject _satellite on every page
 
 ## Version 0.0.803 August 10, 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -151,8 +151,8 @@ Version 0.0.803 does not include any customer-facing changes.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor link on Tools tab </p> </td> 
-   <td colname="col2"> <p>Added a link to Auditor from the Debugger </p> </td> 
+   <td colname="col1"> <p>Platform Auditor link on Tools tab </p> </td> 
+   <td colname="col2"> <p>Added a link to Platform Auditor from the Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Collapsed tabs </p> </td> 

@@ -7,7 +7,7 @@ title: Install Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 ---
 
-# Install Experience Cloud Debugger{#install-experience-cloud-debugger}
+# Install Adobe Experience Cloud Debugger{#install-experience-cloud-debugger}
 
 Download and install the Adobe Experience Cloud Debugger extension for Chrome from the [Chrome extension page](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj).
 

@@ -18,7 +18,7 @@ You can configure certain aspects of how Experience Platform Debugger looks and 
 
 ## Light or dark mode
 
-After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
+After Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
 
 ## Reset
 
@@ -26,7 +26,7 @@ Click **[!UICONTROL Reset all Data and Settings]** to return to clear all data a
 
 ## Lock Experience Platform Debugger on one page
 
-As you change pages on your site, the Experience Platform Debugger window updates to show info for that page. The name of the page you're connected to shows at the bottom of the screen. To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
+As you change pages on your site, the Experience Platform Debugger window updates to show info for that page. The name of the page you're connected to shows at the bottom of the screen. To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Platform Debugger window.
 
 ![](assets/lock.jpg)
 
