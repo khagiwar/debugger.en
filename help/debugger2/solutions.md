@@ -15,9 +15,9 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 
 Click a solution to see the results for specific Adobe Experience Cloud solutions.
 
-## AEP Web SDK {#aep}
+## Adobe Experience Platform Web SDK {#aep}
 
-The AEP Web SDK screen shows information about the Adobe Experience Platform Web SDK. Click **[!UICONTROL Configure]** to toggle console logging on or off.
+The Adobe Experience Platform Web SDK screen shows information about the Adobe Experience Platform Web SDK. Click **[!UICONTROL Configure]** to toggle console logging on or off.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -33,9 +33,9 @@ Use the Target screen to view [Target](https://docs.adobe.com/content/help/en/ta
 
 Use the [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) tab to view details of [events](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Click the organization to expand it and show the information.
 
-## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Use the Launch section to view Launch requests. You can also click **[!UICONTROL Configuration]** to configure [embed codes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). You can edit, replace, or add more embed codes from within Experience Platform Debugger . If you sign in, you can select an alternate property using the dropdowns.
+Use the Adobe Experience Platform Launch section to view Platform Launch requests. You can also click **[!UICONTROL Configuration]** to configure [embed codes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html). You can edit, replace, or add more embed codes from within Experience Platform Debugger . If you sign in, you can select an alternate property using the dropdowns.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 

@@ -13,7 +13,7 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 >
 >Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
-To run the Adobe Experience Platform Debugger, click the icon on your browser bar, then open the page you want to examine in the browser.
+To run Adobe Experience Platform Debugger, click the icon on your browser bar, then open the page you want to examine in the browser.
 
 ![](assets/start-icon.jpg)
 
@@ -25,7 +25,7 @@ This screen shows information about each Adobe Experience Cloud solution. The in
 
 ## Information shown in Experience Platform Debugger  
 
-Experience Platform Debugger  shows the following information for each solution:
+Experience Platform Debugger shows the following information for each solution:
 
 **Adobe Analytics**
 
@@ -73,13 +73,13 @@ Experience Platform Debugger  shows the following information for each solution:
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>The name of the Adobe Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -87,11 +87,11 @@ Experience Platform Debugger  shows the following information for each solution:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build Date </p> </td> 
-   <td colname="col2"> <p>The Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environment </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Launch library </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensions </p> </td> 
@@ -100,13 +100,13 @@ Experience Platform Debugger  shows the following information for each solution:
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience Platform Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Library Version </p> </td> 
-   <td colname="col2"> <p>The number of the AEB Web SDK <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">library version</a> </p> </td> 
+   <td colname="col2"> <p>The number of the Adobe Experience Platform Web SDK <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">library version</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namespace</p> </td> 
@@ -114,7 +114,7 @@ Experience Platform Debugger  shows the following information for each solution:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Property ID </p> </td> 
-   <td colname="col2"> <p>The name of the Launch property specified in the extension </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch property specified in the extension </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge Domain </p> </td> 
