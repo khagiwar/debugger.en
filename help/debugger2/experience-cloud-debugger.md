@@ -14,7 +14,7 @@ uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 >
 >Adobe Experience Platform Debugger is currently in beta. The documentation and the functionality are subject to change. 
 
-[Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+[Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
 
 Use Platform Debugger with the other Adobe activation solutions for a workflow like the following:
 
